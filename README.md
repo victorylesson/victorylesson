@@ -1,6 +1,9 @@
 ### Olá, me chamo Victory Lesson 
 
--  Atualmente estudando CSS e Javascript.
+-  Atualmente estudando CSS, Java Script, Python, Data Analysis, UX/UI e lógica de programação.
+-  Desenvolvedor Full-Stack em formação.
+-  Transformando aprendizado em projetos práticos.
+-  Uso prático de IA e ajuda em estudos e projetos.
 
 <div align="center">
   <a href="https://github.com/victorylesson">
