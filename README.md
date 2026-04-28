@@ -25,4 +25,3 @@
 </div>
 
 
-![Snake animation](https://github.com/victorylesson/victorylesson/blob/output/github-contribuition-grid-snake.svg)
