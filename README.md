@@ -16,6 +16,9 @@
   <img align="center" alt="Victory-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victory-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
+
+![Snake animation](https://github.com/victorylesson/victorylesson/blob/output/github-contribuition-grid-snake.svg)
+
 ##
 
 <div> 
