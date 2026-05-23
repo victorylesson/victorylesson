@@ -80,22 +80,33 @@ Desenvolvedor Full Stack com foco em soluções web escaláveis e de alta perfor
 </table>
 💼 Serviços que Ofereço
 Table
-Serviço	Descrição	Tecnologias
+Serviço	Descrição	Tecnologias:
 🌐 Websites e Landing Pages	Sites institucionais, portfolios e páginas de conversão	React, HTML5, CSS3, Vercel
+
 ⚙️ APIs RESTful	Backend completo com autenticação, CRUD e documentação	Node.js, Express, MongoDB, JWT
+
 🗄️ Banco de Dados	Modelagem, migração e otimização de dados	MongoDB Atlas, Mongoose
+
 ☁️ Deploy e DevOps	Hospedagem, CI/CD e monitoramento em nuvem	Vercel, Render, GitHub Actions
+
 🔧 Manutenção e Suporte	Correções, atualizações e evolução contínua	Stack completo
+
 📈 Meu Processo de Trabalho
 plain
 Copy
 1️⃣  DESCoberta    → Reunião de alinhamento, entendimento do problema
+
 2️⃣  PROPOSTA      → Escopo fechado, prazos e investimento definidos
+
 3️⃣  DESENVOLVIMENTO → Sprints semanais, demos a cada 3-4 dias
+
 4️⃣  ENTREGA       → Deploy, documentação, treinamento e garantia
+
 5️⃣  PÓS-ENTREGA   → Suporte 30 dias, plano de manutenção mensal
+
 📬 Vamos Trabalhar Juntos?
 Estou disponível para freelances, projetos pontuais e parcerias de longo prazo.
+
 <p align="center">
   <a href="mailto:victory.mendes@hotmail.com">
     <img src="https://img.shields.io/badge/📧%20Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
