@@ -24,7 +24,7 @@ Desenvolvedor Full Stack com foco em soluções web escaláveis e de alta perfor
 
 🎓 Cursando Sistemas de Informação na UNINASSAU.
 
-📍 Baseado em Recife, PE — Brasil.
+📍  Recife, PE — Brasil.
 
 🚀 Especializado em Node.js, MongoDB Atlas, React e Deploy em Nuvem.
 
