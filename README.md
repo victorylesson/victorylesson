@@ -7,7 +7,7 @@
   <a href="mailto:victory.mendes@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/victory-lesson/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://victory-dev.vercel.app/" target="_blank">
@@ -21,7 +21,7 @@
 Desenvolvedor Full Stack com foco em soluções web escaláveis e de alta performance.
 💡 Transformo ideias em aplicações web completas — do backend ao deploy em nuvem.
 🎓 Cursando Sistemas de Informação na UNINASSAU
-📍 Baseado em Olinda, PE — Brasil
+📍 Baseado em Recife, PE — Brasil
 🚀 Especializado em Node.js, MongoDB Atlas, React e Deploy em Nuvem
 🤝 Aberto a freelances, parcerias e projetos recorrentes
 🛠️ Stack Principal
@@ -88,10 +88,6 @@ Copy
 3️⃣  DESENVOLVIMENTO → Sprints semanais, demos a cada 3-4 dias
 4️⃣  ENTREGA       → Deploy, documentação, treinamento e garantia
 5️⃣  PÓS-ENTREGA   → Suporte 30 dias, plano de manutenção mensal
-🏆 Certificações & Conquistas
-✅ MongoDB Atlas — [adicione quando tiver]
-✅ AWS Cloud Practitioner — [adicione quando tiver]
-🥇 [Outra conquista relevante]
 📬 Vamos Trabalhar Juntos?
 Estou disponível para freelances, projetos pontuais e parcerias de longo prazo.
 <p align="center">
