@@ -19,11 +19,17 @@
 </p>
 👨‍💻 Sobre Mim
 Desenvolvedor Full Stack com foco em soluções web escaláveis e de alta performance.
+
 💡 Transformo ideias em aplicações web completas — do backend ao deploy em nuvem.
-🎓 Cursando Sistemas de Informação na UNINASSAU
-📍 Baseado em Recife, PE — Brasil
-🚀 Especializado em Node.js, MongoDB Atlas, React e Deploy em Nuvem
-🤝 Aberto a freelances, parcerias e projetos recorrentes
+
+🎓 Cursando Sistemas de Informação na UNINASSAU.
+
+📍 Baseado em Recife, PE — Brasil.
+
+🚀 Especializado em Node.js, MongoDB Atlas, React e Deploy em Nuvem.
+
+🤝 Aberto a freelances, parcerias e projetos recorrentes.
+
 🛠️ Stack Principal
 <!-- LINGUAGENS E FRAMEWORKS -->
 <p align="center">
