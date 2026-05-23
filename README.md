@@ -13,7 +13,7 @@
   <a href="https://victory-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://wa.me/5581999999999" target="_blank">
+  <a href="https://wa.me/5581991482982" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
@@ -106,5 +106,5 @@ Estou disponível para freelances, projetos pontuais e parcerias de longo prazo.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
 </p>
 <p align="center">
-  <i>"Código limpo, entrega no prazo, cliente satisfeito."</i> 💜
+  <i>"Código limpo, entrega no prazo, cliente satisfeito."</i> 
 </p>
