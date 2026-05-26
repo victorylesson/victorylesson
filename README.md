@@ -107,7 +107,7 @@ Estou disponível para freelances, projetos pontuais e parcerias de longo prazo.
   <a href="mailto:victory.mendes@hotmail.com">
     <img src="https://img.shields.io/badge/📧%20Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/5581999999999">
+  <a href="https://wa.me/5581991482982">
     <img src="https://img.shields.io/badge/💬%20Chamar%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
