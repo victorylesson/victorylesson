@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-👨‍💻 Sobre Mim
+👨‍💻 Sobre Mim :
 Desenvolvedor Full Stack com foco em soluções web escaláveis e de alta performance.
 
 💡 Transformo ideias em aplicações web completas — do backend ao deploy em nuvem.
