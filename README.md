@@ -90,6 +90,7 @@ Serviço	Descrição	Tecnologias:
 📈 Meu Processo de Trabalho
 plain
 Copy
+
 1️⃣  DESCoberta    → Reunião de alinhamento, entendimento do problema
 
 2️⃣  PROPOSTA      → Escopo fechado, prazos e investimento definidos
