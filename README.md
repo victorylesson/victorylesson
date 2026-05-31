@@ -152,8 +152,6 @@ Serviço	Descrição	Tecnologias
 
 📈 Meu Processo de Trabalho
 
-plain
-
 1️⃣  DESCoberta      → Reunião de alinhamento, entendimento do problema
 
 2️⃣  PROPOSTA        → Escopo fechado, prazos e investimento definidos
@@ -182,10 +180,4 @@ Estou disponível para freelances, projetos pontuais e parcerias de longo prazo.
 </p>
 <p align="center">
   <i>"Código limpo, entrega no prazo, cliente satisfeito."</i>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
-</p>
-<p align="center">
-  <i>"Código limpo, entrega no prazo, cliente satisfeito."</i> 
 </p>
