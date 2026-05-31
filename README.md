@@ -77,6 +77,8 @@ Desenvolvedor Full Stack com foco em soluções web escaláveis e de alta perfor
 💼 Serviços que Ofereço
 Table
 Serviço	Descrição	Tecnologias:
+
+
 🌐 Websites e Landing Pages	Sites institucionais, portfolios e páginas de conversão	React, HTML5, CSS3, Vercel
 
 ⚙️ APIs RESTful	Backend completo com autenticação, CRUD e documentação	Node.js, Express, MongoDB, JWT
