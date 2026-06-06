@@ -97,7 +97,7 @@ Desenvolvedor Full Stack com foco em soluções web escaláveis, automação de 
     <td width="50%">
       <h3 align="center">🌐 victory-dev.vercel.app</h3>
       <p align="center">
-        <a href="https://github.com/victorylesson/victory-dev" target="_blank">
+        <a href="httpsgithub.com/victorylesson/portfolio-victory-dev" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://victory-dev.vercel.app/" target="_blank">
