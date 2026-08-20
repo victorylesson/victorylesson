@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Victory%20Mendes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Node.js%20%7C%20Python%20%7C%20MongoDB%20%7C%20React&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=292D32&height=200&section=header&text=Victory%20Mendes&fontSize=50&fontColor=F2F2F2&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Node.js%20%7C%20Python%20%7C%20MongoDB%20%7C%20React&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
@@ -179,5 +179,5 @@ Estou disponível para freelances, projetos e parcerias.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=292D32&height=100&section=footer"/>
 </p>
