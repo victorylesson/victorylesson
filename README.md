@@ -26,7 +26,7 @@ Desenvolvedor Full Stack focado em desenvolvimento web, APIs, automação de dad
 
 Atualmente cursando Sistemas de Informação na UNINASSAU.
 
-📍 Recife, PE — Brasil
+ Recife, PE — Brasil
 
 Tenho experiência com desenvolvimento de aplicações usando Node.js, Python, React e MongoDB, além de deploy e integração de serviços em nuvem.
 
@@ -92,7 +92,7 @@ Disponível para freelances, projetos e parcerias.
 
 ##  Projetos
 
-### 🌐 Portfolio
+###  Portfolio
 
 <p>
   <a href="https://github.com/victorylesson/portfolio-victory-dev">
